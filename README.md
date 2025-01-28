@@ -5,6 +5,8 @@
 ## Overview
 This is a simple web application that allows users to view, add, edit, and delete user details using a mock backend API (`JSONPlaceholder`). The application is built with **React** and uses `axios` for API requests. The interface is clean and functional, with error handling and optional bonus features like pagination and client-side validation.
 
+You can check out the live version of the portfolio here:  
+**[Live Portfolio](https://ajackus-assignment-silk.vercel.app/)**
 ---
 
 ## Features
